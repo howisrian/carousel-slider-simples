@@ -33,7 +33,7 @@ $(document).ready(function () {
   });
   
   fetch(
-    "https://raw.githubusercontent.com/Cassianosch/programador.cs-reels/develop/slider-produtos-simples/assets/data/data.json"
+    "https://raw.githubusercontent.com/howisrian/carousel-slider-simples/main/data.json"
   )
     .then((response) => response.json())
     .then((data) => {
