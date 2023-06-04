@@ -1,2 +1,2 @@
 # carousel-slider-simples
-Slider de imagens
+Slider de imagens Ultilizando JavaScript 
